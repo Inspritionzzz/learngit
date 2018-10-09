@@ -5,5 +5,4 @@ test
 just for fun
 111
 test branch
-<<<<<<< HEAD
 test conflict 222
